@@ -4,7 +4,7 @@ This workshop will provide a snapshot of essential data engineering practices to
 
 
 By attending this workshop, participants will be able to:
-•	Understand the growth of data and need for a scalable data engineering practices and a guided processing framework. 
-•	Understand the various types of Data Driven Computational Architecture and their relevant strengths / short comings
-•	Understand modern data intensive project life cycle activities.
-•	Gain hands on practical experience for various data pipeline processing and functional computations using open source Apache Spark Framework along with relevant flow architectures. 
+* Understand the growth of data and need for a scalable data engineering practices and a guided processing framework. 
+* Understand the various types of Data Driven Computational Architecture and their relevant strengths / short comings
+* Understand modern data intensive project life cycle activities.
+* Gain hands on practical experience for various data pipeline processing and functional computations using open source Apache Spark Framework along with relevant flow architectures. 
